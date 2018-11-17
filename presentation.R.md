@@ -4,7 +4,7 @@ author: Raunak Shakya
 date: November, 2018
 autosize: true
 
-http://rpubs.com/raunakshakya707/440548
+http://rpubs.com/raunakshakya707/440550
 
 Introduction
 ========================================================
@@ -34,23 +34,23 @@ iris_kmeans
 ```
 
 ```
-K-means clustering with 3 clusters of sizes 48, 50, 52
+K-means clustering with 3 clusters of sizes 50, 46, 54
 
 Cluster means:
   Petal.Length Petal.Width
-1     5.595833    2.037500
-2     1.462000    0.246000
-3     4.269231    1.342308
+1     1.462000    0.246000
+2     5.626087    2.047826
+3     4.292593    1.359259
 
 Clustering vector:
-  [1] 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
- [36] 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
- [71] 3 3 3 3 3 3 3 1 3 3 3 3 3 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 1 1 1 1
-[106] 1 3 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 3 1
-[141] 1 1 1 1 1 1 1 1 1 1
+  [1] 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ [36] 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ [71] 3 3 3 3 3 3 3 2 3 3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 2 2 2 2
+[106] 2 3 2 2 2 2 2 2 2 2 2 2 2 2 3 2 2 2 3 2 2 3 3 2 2 2 2 2 2 2 2 2 2 3 2
+[141] 2 2 2 2 2 2 2 2 2 2
 
 Within cluster sum of squares by cluster:
-[1] 16.29167  2.02200 13.05769
+[1]  2.02200 15.16348 14.22741
  (between_SS / total_SS =  94.3 %)
 
 Available components:
